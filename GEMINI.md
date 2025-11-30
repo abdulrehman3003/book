@@ -208,3 +208,9 @@ Wait for consent; never auto-create ADRs. Group related decisions (stacks, authe
 
 ## Code Standards
 See `.specify/memory/constitution.md` for code quality, testing, performance, security, and architecture principles.
+
+## Active Technologies
+- Python 3.11 + Docusaurus, Gemini CLI, Claude Code, Spec-Kit Plus, FastAPI, Qdrant, Neon, OpenAI Agents/ChatKit SDK (001-ai-native-book-project)
+
+## Recent Changes
+- 001-ai-native-book-project: Added Python 3.11 + Docusaurus, Gemini CLI, Claude Code, Spec-Kit Plus, FastAPI, Qdrant, Neon, OpenAI Agents/ChatKit SDK

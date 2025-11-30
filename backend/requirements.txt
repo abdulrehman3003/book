@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+qdrant-client
+openai
+google-generativeai
+langchain-community
+langchain-text-splitters
